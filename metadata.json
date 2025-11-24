@@ -1,0 +1,7 @@
+{
+  "name": "TAEC Virtual Tutor",
+  "description": "An AI-powered B1 English learning pipeline specializing in vocabulary, pronunciation correction, and retention using the Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
